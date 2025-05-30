@@ -18,3 +18,4 @@ This project is a simple and interactive Quiz Application built using HTML, CSS,
 
 ![Image](https://github.com/user-attachments/assets/09981f5f-a10e-4091-8bae-c0273434392e)
 
+![Image](https://github.com/user-attachments/assets/025a9549-5f24-46ce-98c3-2ce5426a29c7)
